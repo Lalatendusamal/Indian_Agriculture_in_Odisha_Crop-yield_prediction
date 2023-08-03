@@ -1,6 +1,7 @@
 # Indian_Agriculture_in_Odisha_Crop-yield_prediction
 #ABSTRACT
 The impact of climate change in India, most of the agricultural crops are being badly affected in terms of their performance over a period of the last two decades. Predicting the crop yield in advance of its harvest would help the policy makers and farmers for taking appropriate measures for marketing and storage. This project will help the farmers to know the yield of their crop before cultivating onto the agricultural field and thus help them to make the appropriate decisions. It attempts to solve the issue by building a prototype of an interactive prediction system. Implementation of such a system with an easy-to-use web based graphic user interface and the machine learning algorithm will be carried out. The results of the prediction will be made available to the farmer.
+
 #OBJECTIVES
 Crop yield prediction is an important agricultural problem. The Agricultural yield primarily depends on weather conditions , area and accurate information about history of crop yield is an important thing for making decisions related to agricultural risk management and future predictions. Crop yield prediction is an essential task for the decision-makers at national and regional levels for rapid decision-making. An accurate crop yield prediction model can help farmers to decide on what to grow and when to grow.
 #Methodology
